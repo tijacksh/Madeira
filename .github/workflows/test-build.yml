@@ -2,7 +2,7 @@ name: Current upstream Madeira IPA
 
 on:
   push:
-    branches: [codex/upstream-279fd0f-build]
+    branches: [codex/upstream-279fd0f-build, diag-harderror]
   workflow_dispatch:
 
 permissions:
